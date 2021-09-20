@@ -44,6 +44,6 @@ offline.init_notebook_mode()
 from collections import Counter
 ```
 
-#### Link to the course
+### Link to the course
 https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course 
 
